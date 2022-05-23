@@ -1,0 +1,15 @@
+The Graff style is a simple design, from the top the design idea is:
+
+- Distro Logo
+
+- Slogan
+
+- Distro title (in psuedo-graffiti font)
+
+NOTE: Many distributions have an "Official" slogan (i.e. EndeavorOS, OpenSUSE, Void) but some do not and have a community which has created their own slogan for the distro.  I will have used the slogan I see from the community (Arch, Gentoo), or determine what might be the best based on my knowledge of the distro.  Please see the README file if you find any mispellings or incorrect slogans.
+
+As always, thank you.
+
+Yours in Open Source,
+
+Comrade Spider
