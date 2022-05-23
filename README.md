@@ -21,10 +21,12 @@ A few notes about distro slogans:
 - I will have used 
 
      1.) the official slogan
+     
      2.) the most supported slogan I see from the community
+    
      3.) determine what might be the best based on my knowledge of the distro
 
-Because of the uncertain science of #2 and #3, you are welcome to email me suggestions or send me edits of the original files I have included in the main branch, so I can apply to proper changes.  In this case they are .XCF files I created in GIMP.
+In that order, as to ensure the best slogan is used.  Because of the uncertain science of #2 and #3, you are welcome to email me suggestions or send me edits of the original files I have included in the main branch, so I can apply to proper changes.
 
 That said, this applies explicitly to corrective measures.  Any other changes (font, styling, etc) will not be considered, as the design will not change, only the lettering.  If you would like to submit these types edits please see below.
 
@@ -33,7 +35,7 @@ That said, this applies explicitly to corrective measures.  Any other changes (f
 
 I will be using a Fork and Pull model of repo, so any changes you would like to add (new designs, dotfiles, etc.) must be done on your own fork of this project, and then a pull request must be submitted. 
 
-Me or an aforementioned trusted source will review the changes and if accepted, will merge it into an appropriate folder on the main branch, and will credit you in the design description file (i.e. Graff/graff.txt).  Please note that any work submitted will automatically fall under the Free Documentation License, you may read this in the main branch of this file.
+Me or an aforementioned trusted source will review the changes and if accepted, will merge it into an appropriate folder on the main branch, and will credit you in the design description file (i.e. Graff/graff.txt).  Please note that any work submitted will automatically fall under the Creative Commons License, you may read this in the main branch of this file, if you so wish.
 
 
 # Requests
@@ -45,7 +47,7 @@ If you would like me to make an edit or attempt to make other content, you may s
 
 The content of this file is subject to alteration, please double-check it every so often because something might have been changed.
 
-Any artwork listed here is provieded to users under the Free Documentation License, as recommended for non-code related material by the FSF.
+Any artwork listed here is provieded to users under the Creative Commons License, which is the near-equivalent of the GNU Public License for non-code materials.
 
 
 
