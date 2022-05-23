@@ -26,7 +26,7 @@ A few notes about distro slogans:
     
      3.) determine what might be the best based on my knowledge of the distro
 
-In that order, as to ensure the best slogan is used.  Because of the uncertain science of #2 and #3, you are welcome to email me suggestions or send me edits of the original files I have included in the main branch, so I can apply to proper changes.
+In that order, as to ensure the best slogan is used.  Because of the uncertain science of #2 and #3, you are welcome to email me (see profile for email) suggestions or send me edits of the original files I have included in the main branch, so I can apply to proper changes.
 
 That said, this applies explicitly to corrective measures.  Any other changes (font, styling, etc) will not be considered, as the design will not change, only the lettering.  If you would like to submit these types edits please see below.
 
