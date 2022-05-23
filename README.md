@@ -1,5 +1,5 @@
 
-# wallpapers-by-distro
+# Wallpapers By Distro
 This is just a repo of wallpapers for Linux distributions. I am working on getting wallpapers for all distributions that make sense (i.e Debian, Arch Linux, Void, etc.)
 Once I get at least one design I'll work on a different sets of wallpapers.
 
