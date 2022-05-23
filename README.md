@@ -45,7 +45,8 @@ If you would like me to make an edit or attempt to make other content, you may s
 
 The content of this file is subject to alteration, please double-check it every so often because something might have been changed.
 
-Any artwork listed here is provieded to users under the Free Documentation License, as recommended by the FSF.
+Any artwork listed here is provieded to users under the Free Documentation License, as recommended for non-code related material by the FSF.
+
 
 
 Yours in Open Source,
