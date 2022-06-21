@@ -1,0 +1,26 @@
+[global_config]
+  focus = system
+  invert_search = True
+[keybindings]
+  full_screen = <Ctrl><Shift>F11
+[profiles]
+  [[default]]
+    audible_bell = True
+    background_type = transparent
+    background_darkness = 0.7
+    cursor_shape = underline
+    cursor_color = "#1996D4"
+    font = Monospace 10
+    foreground_color = "#1996D4"
+    show_titlebar = False
+    scrollback_lines = 50000
+    background_image = None
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
