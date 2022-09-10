@@ -49,7 +49,7 @@ The content of this file is subject to alteration, please double-check it every 
 
 Any artwork listed here is provieded to users under the Creative Commons License, which is the near-equivalent of the GNU Public License for non-code materials.
 
-
+Any dotfiles are licensed under the GPLv2.
 
 Yours in Open Source,
 
