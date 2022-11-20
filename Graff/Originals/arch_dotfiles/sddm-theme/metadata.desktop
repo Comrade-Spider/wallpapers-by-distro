@@ -1,16 +1,16 @@
 [SddmGreeterTheme]
-Name=Sugar Dark
-Description=The sweetest theme around; Dark!
-Author=Marian Arlt
-Copyright=Copyright (C) 2018 Marian Arlt
+Name=Arch-SDDM
+Description=SDDM Theme to go along with my arch linux wallpaper
+Author=Declan Fledderjohn
+Copyright=Copyright (C) 2022 Declan Fledderjohn
 License=GPL-3.0-or-later
 Type=sddm-theme
 Version=1.2
-Website=https://github.com/MarianArlt/sddm-sugar-dark
-Screenshot=Preview.png
+Website=https://github.com/Comrade-Spider/arch-sddm
+Screenshot=Arch-sddm_prev.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Email=marianarlt@icloud.com
-Theme-Id=sugar-dark
+Email=decfledd@tutanota.com
+Theme-Id=arch-sddm
 Theme-API=2.11
